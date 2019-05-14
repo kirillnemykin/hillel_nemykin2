@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{margin: 0 auto; font-family: Verdana, Geneva, sans-serif; font-size: 14px;}
+.top-line{background: #39F; width: 100%;}
+.kontak-top{width: 960px; margin: 0 auto; color: #FFF; padding-top: 7px; padding-bottom: 7px;}
+.nav-top{width: 960px; margin: 0 auto; padding-top: 20px; height: 100px;}
+.logo{width: 300px; float: left;}
+.menu-top{width: 620px; float: left; padding-top: 20px;}
+#menu-top{list-style-type: none;}
+#menu-top li{float: left; margin-left: 10px; margin-right: 10px; font-size: 18px;}
+#menu-top li a{color: #09F; text-decoration: none;}
+.top-img{width: 960px; margin: 0 auto; height: 560px; padding-top: 40px;}
+#zag-top{color: #39F;font-size: 35px; margin-left: 40px;}
+.content{width: 960px;}
