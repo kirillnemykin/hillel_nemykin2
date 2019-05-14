@@ -1,0 +1,67 @@
+
+Кирилл@DESKTOP-N4MTQ3C MINGW64 ~/Desktop/GIT remote/hillel_nemykin2 (master)
+$ git reflog
+1632d6e (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+eb95004 HEAD@{1}: checkout: moving from release to master
+1632d6e (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+7caeb22 HEAD@{3}: checkout: moving from test to release
+1632d6e (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+4a2c28d HEAD@{5}: checkout: moving from develop to test
+1632d6e (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): sixth commit
+4a2c28d HEAD@{7}: merge test: Fast-forward
+326e0d3 HEAD@{8}: checkout: moving from release to develop
+7caeb22 HEAD@{9}: commit: fivth commit
+326e0d3 HEAD@{10}: checkout: moving from test to release
+4a2c28d HEAD@{11}: checkout: moving from release to test
+326e0d3 HEAD@{12}: checkout: moving from develop to release
+326e0d3 HEAD@{13}: checkout: moving from test to develop
+4a2c28d HEAD@{14}: commit: fourth commit
+ad11c09 HEAD@{15}: commit: third commit
+326e0d3 HEAD@{16}: checkout: moving from develop to test
+326e0d3 HEAD@{17}: commit: second commit
+eb95004 HEAD@{18}: checkout: moving from master to develop
+:
+1632d6e (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+eb95004 HEAD@{1}: checkout: moving from release to master
+1632d6e (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+7caeb22 HEAD@{3}: checkout: moving from test to release
+1632d6e (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+4a2c28d HEAD@{5}: checkout: moving from develop to test
+1632d6e (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): sixth commit
+4a2c28d HEAD@{7}: merge test: Fast-forward
+326e0d3 HEAD@{8}: checkout: moving from release to develop
+7caeb22 HEAD@{9}: commit: fivth commit
+326e0d3 HEAD@{10}: checkout: moving from test to release
+4a2c28d HEAD@{11}: checkout: moving from release to test
+326e0d3 HEAD@{12}: checkout: moving from develop to release
+326e0d3 HEAD@{13}: checkout: moving from test to develop
+4a2c28d HEAD@{14}: commit: fourth commit
+ad11c09 HEAD@{15}: commit: third commit
+326e0d3 HEAD@{16}: checkout: moving from develop to test
+326e0d3 HEAD@{17}: commit: second commit
+eb95004 HEAD@{18}: checkout: moving from master to develop
+eb95004 HEAD@{19}: commit (initial): first commit
+~
+~
+~
+(END)...skipping...
+1632d6e (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+eb95004 HEAD@{1}: checkout: moving from release to master
+1632d6e (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+7caeb22 HEAD@{3}: checkout: moving from test to release
+1632d6e (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+4a2c28d HEAD@{5}: checkout: moving from develop to test
+1632d6e (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): sixth commit
+4a2c28d HEAD@{7}: merge test: Fast-forward
+326e0d3 HEAD@{8}: checkout: moving from release to develop
+7caeb22 HEAD@{9}: commit: fivth commit
+326e0d3 HEAD@{10}: checkout: moving from test to release
+4a2c28d HEAD@{11}: checkout: moving from release to test
+326e0d3 HEAD@{12}: checkout: moving from develop to release
+326e0d3 HEAD@{13}: checkout: moving from test to develop
+4a2c28d HEAD@{14}: commit: fourth commit
+ad11c09 HEAD@{15}: commit: third commit
+326e0d3 HEAD@{16}: checkout: moving from develop to test
+326e0d3 HEAD@{17}: commit: second commit
+eb95004 HEAD@{18}: checkout: moving from master to develop
+eb95004 HEAD@{19}: commit (initial): first commit
