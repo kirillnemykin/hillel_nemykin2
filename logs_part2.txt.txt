@@ -1,0 +1,64 @@
+55bbf24 (HEAD -> master, origin/master) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+38abccd HEAD@{1}: checkout: moving from develop to master
+8aa1735 (first, develop) HEAD@{2}: merge first: Fast-forward
+45a3e67 HEAD@{3}: checkout: moving from first to develop
+8aa1735 (first, develop) HEAD@{4}: rebase -i (finish): returning to refs/heads/first
+8aa1735 (first, develop) HEAD@{5}: rebase -i (pick): 7
+8912bed HEAD@{6}: rebase -i (start): checkout develop
+ea95c57 HEAD@{7}: rebase -i (finish): returning to refs/heads/first
+ea95c57 HEAD@{8}: rebase -i (pick): 7
+1784f48 HEAD@{9}: rebase -i (pick): 6
+8912bed HEAD@{10}: rebase -i (pick): 5
+149daba HEAD@{11}: rebase -i (pick): 4
+490c4e2 HEAD@{12}: rebase -i (pick): 3
+45a3e67 HEAD@{13}: rebase -i (start): checkout develop
+3689905 (second) HEAD@{14}: checkout: moving from second to first
+3689905 (second) HEAD@{15}: rebase -i (finish): returning to refs/heads/second
+3689905 (second) HEAD@{16}: checkout: moving from develop to first
+45a3e67 HEAD@{17}: merge second: Fast-forward
+28e5638 HEAD@{18}: checkout: moving from develop to develop
+28e5638 HEAD@{19}: checkout: moving from 17461ef2e7299c2f325a17ebbd417001cd897397 to develop
+17461ef HEAD@{20}: commit (amend): 11
+45a3e67 HEAD@{21}: rebase -i: fast-forward
+48089bd HEAD@{22}: rebase -i (start): checkout develop
+45a3e67 HEAD@{23}: rebase -i (finish): returning to refs/heads/second
+45a3e67 HEAD@{24}: rebase -i (start): checkout develop
+45a3e67 HEAD@{25}: rebase -i (finish): returning to refs/heads/second
+45a3e67 HEAD@{26}: rebase -i (pick): 10
+48089bd HEAD@{27}: rebase -i (pick): 9
+55bacb4 HEAD@{28}: rebase -i (pick): 8
+28e5638 HEAD@{29}: rebase -i (start): checkout develop
+a31988e HEAD@{30}: commit: 10
+3fd4916 HEAD@{31}: commit: 9
+cdf038d HEAD@{32}: commit: 8
+1632d6e (test, release) HEAD@{33}: checkout: moving from first to second
+3689905 (second) HEAD@{34}: commit: 7
+57fe3ff HEAD@{35}: commit: 6
+19d0096 HEAD@{36}: commit: 5
+d32fc28 HEAD@{37}: commit: 4
+4e6f547 HEAD@{38}: commit: 3
+1632d6e (test, release) HEAD@{39}: checkout: moving from develop to first
+28e5638 HEAD@{40}: commit: 2
+f5ed8d3 HEAD@{41}: commit: 1
+1632d6e (test, release) HEAD@{42}: checkout: moving from master to develop
+38abccd HEAD@{43}: commit: seventh commit
+1632d6e (test, release) HEAD@{44}: merge develop: Fast-forward
+eb95004 HEAD@{45}: checkout: moving from release to master
+1632d6e (test, release) HEAD@{46}: merge develop: Fast-forward
+7caeb22 HEAD@{47}: checkout: moving from test to release
+1632d6e (test, release) HEAD@{48}: merge develop: Fast-forward
+4a2c28d HEAD@{49}: checkout: moving from develop to test
+1632d6e (test, release) HEAD@{50}: commit (merge): sixth commit
+4a2c28d HEAD@{51}: merge test: Fast-forward
+326e0d3 HEAD@{52}: checkout: moving from release to develop
+7caeb22 HEAD@{53}: commit: fivth commit
+326e0d3 HEAD@{54}: checkout: moving from test to release
+4a2c28d HEAD@{55}: checkout: moving from release to test
+326e0d3 HEAD@{56}: checkout: moving from develop to release
+326e0d3 HEAD@{57}: checkout: moving from test to develop
+4a2c28d HEAD@{58}: commit: fourth commit
+ad11c09 HEAD@{59}: commit: third commit
+326e0d3 HEAD@{60}: checkout: moving from develop to test
+326e0d3 HEAD@{61}: commit: second commit
+eb95004 HEAD@{62}: checkout: moving from master to develop
+eb95004 HEAD@{63}: commit (initial): first commit
